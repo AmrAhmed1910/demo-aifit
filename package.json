@@ -1,6 +1,5 @@
 {
       "name": "AI FIT",
-      "homepage": "https://amrahmed1910.github.io/demo-aifit/",
       "version": "0.1.0",
       "private": true,
       "dependencies": {
